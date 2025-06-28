@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kushal!!
--    I’m an aspiring engineering student focusing on development and cybersecurity
+-    I’m an aspiring engineering student focusing on Web development and cybersecurity
 - 🌱 I’m currently upskilling myself in Java
 -   reach me on my linkedin profile 
 
