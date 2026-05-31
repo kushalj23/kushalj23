@@ -39,7 +39,6 @@ public class KushalJ {
         "Advanced DSA in Java",
         "ADO.NET & SQL Server Internals",
         "NUnit Testing & Agile/Scrum",
-        "Medical SaaS Startup (JK MED POS)"
     };
 
     private final String funFact =
@@ -53,7 +52,6 @@ public class KushalJ {
 
 <br clear="right"/>
 
-- 🎯 **Goal:** Land a top MNC role **> ₹10 LPA** & eventually found a **Medical Software Startup**
 - 🔭 **Working on:** IoT Robotic Agriculture Arm + .NET Core mastery
 - 🌱 **Learning:** Advanced C# 12, ADO.NET, System Design, LeetCode DSA
 - 🏆 **Achievement:** 1st Prize — Business Pitch & Mock Interview, Sriram Engineering College
@@ -107,20 +105,6 @@ public class KushalJ {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/kushalj23">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kushalj23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800&rank_icon=github"/>
-</a>
-<a href="https://github.com/kushalj23">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalj23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
-</a>
-
-</div>
-
----
 
 ## 🔥 Streak Stats
 
@@ -191,10 +175,10 @@ public class KushalJ {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🤖 **Robotic Agriculture System**](https://github.com/kushalj23) | IoT, Microcontrollers, Sensors | Automated pollination, irrigation & crop monitoring via real-time MCU control. Full end-to-end IoT pipeline. *(Oct 2025 – Feb 2026)* |
-| [🎓 **Ware Wizards — AI LMS**](https://github.com/kushalj23) | Python, MySQL, Gemini API | Full-stack LMS with **Gemini Generative AI** for adaptive content delivery; scalable multi-user architecture. *(Jul 2025 – Sep 2025)* |
-| [🛡️ **GAMMA — Cyberbullying Detector**](https://github.com/kushalj23) | NLP, ML, Sentiment Analysis | Achieved **87% F1-score** detecting cyberbullying across social platforms via fine-tuned NLP classifier. *(Sep 2024 – Nov 2024)* |
-| [🎯 **GOAL — AI Student Chatbot**](https://github.com/kushalj23) | AI, Knowledge Base, Python | Deployed chatbot "Infinity" providing context-aware college guidance across **Tamil Nadu**. *(Jul 2024 – Aug 2024)* |
+| [🤖 **Robotic Agriculture System**]| IoT, Microcontrollers, Sensors | Automated pollination, irrigation & crop monitoring via real-time MCU control. Full end-to-end IoT pipeline. *(Oct 2025 – Feb 2026)* |
+| [🎓 **Ware Wizards — AI LMS**]| Python, MySQL, Gemini API | Full-stack LMS with **Gemini Generative AI** for adaptive content delivery; scalable multi-user architecture. *(Jul 2025 – Sep 2025)* |
+| [🛡️ **GAMMA — Cyberbullying Detector**]| NLP, ML, Sentiment Analysis | Achieved **87% F1-score** detecting cyberbullying across social platforms via fine-tuned NLP classifier. *(Sep 2024 – Nov 2024)* |
+| [🎯 **GOAL — AI Student Chatbot**]| AI, Knowledge Base, Python | Deployed chatbot "Infinity" providing context-aware college guidance across **Tamil Nadu**. *(Jul 2024 – Aug 2024)* |
 
 </div>
 
@@ -236,11 +220,9 @@ public class KushalJ {
 
 ```
 🧱 C# 12 & .NET Core     → Sealed/Extension Classes, Covariance, C# 12 Features
-🗄️  ADO.NET & SQL Server  → SqlConnection, Transactions, Bulk Operations, MSSQL Internals
 ⚙️  DSA in Java           → Trees, Graphs, Dynamic Programming, System Design
 🧪  NUnit Testing         → TestFixture, Constraint Model, Parameterized Tests
 ☁️  Cloud Platforms       → AWS Core Services, Azure Fundamentals
-🚀  Startup Building      → Medical SaaS (JK MED POS) — Next.js 14 + Supabase + Razorpay
 ```
 
 ---
