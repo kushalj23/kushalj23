@@ -60,7 +60,6 @@ public class KushalJ {
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -69,11 +68,9 @@ public class KushalJ {
 
 **Frameworks & Libraries**
 
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Cloud & DevOps**
@@ -104,10 +101,10 @@ public class KushalJ {
 
 <div align="center">
 
-<a href="https://github.com/KushalJ">
+<a href="https://github.com/kushalj23">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KushalJ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/KushalJ">
+<a href="https://github.com/kushalj23">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
@@ -129,7 +126,7 @@ public class KushalJ {
 
 <div align="center">
 
-[![Kushal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KushalJ&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/KushalJ)
+[![Kushal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KushalJ&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/kushalj23)
 
 </div>
 
