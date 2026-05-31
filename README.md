@@ -4,9 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Kushal+J+%F0%9F%91%8B;Full-Stack+%7C+AI%2FML+%7C+Embedded+Systems+Engineer;B.E.+ECE+%40+Vel+Tech+%7C+CGPA+9.04+%F0%9F%8E%AF;Building+impact-driven+software+for+society+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KushalJ&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/kushalj23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushal%20J-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushaljecevtmt)
+[![Profile Views](https://komarev.com/ghpvc/?username=kushalj23&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/kushalj23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushal%20J-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushalj)
 [![Email](https://img.shields.io/badge/Email-lkushal2005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lkushal2005@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai)
 
 </div>
 
@@ -27,13 +28,18 @@ public class KushalJ {
     private final String gradYear     = "2026";
 
     private final String[] stack = {
-        "Java", "Python", "JavaScript", "React JS", "Flask",
+        "Java", "C#", "Python", "JavaScript",
+        ".NET Core", "React JS", "Flask",
         "MySQL", "SQL Server", "PostgreSQL",
         "AWS", "Azure", "Gemini AI API"
     };
 
     private final String[] currentlyLearning = {
-        "Advanced DSA in Java",  
+        "C# 12 & .NET Core Architecture",
+        "Advanced DSA in Java",
+        "ADO.NET & SQL Server Internals",
+        "NUnit Testing & Agile/Scrum",
+        "Medical SaaS Startup (JK MED POS)"
     };
 
     private final String funFact =
@@ -47,8 +53,9 @@ public class KushalJ {
 
 <br clear="right"/>
 
-- 🔭 **Working on:** IoT Robotic Agriculture Arm 
-- 🌱 **Learning:**  System Design, LeetCode DSA
+- 🎯 **Goal:** Land a top MNC role **> ₹10 LPA** & eventually found a **Medical Software Startup**
+- 🔭 **Working on:** IoT Robotic Agriculture Arm + .NET Core mastery
+- 🌱 **Learning:** Advanced C# 12, ADO.NET, System Design, LeetCode DSA
 - 🏆 **Achievement:** 1st Prize — Business Pitch & Mock Interview, Sriram Engineering College
 - 💡 **Passion:** AI/ML integration, embedded systems, and socially impactful software
 - 🤝 **Open to:** Collaboration, group learning, hackathons, and internships
@@ -60,6 +67,7 @@ public class KushalJ {
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -68,9 +76,11 @@ public class KushalJ {
 
 **Frameworks & Libraries**
 
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Cloud & DevOps**
@@ -191,10 +201,10 @@ public class KushalJ {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🤖 **Robotic Agriculture System**]| IoT, Microcontrollers, Sensors | Automated pollination, irrigation & crop monitoring via real-time MCU control. Full end-to-end IoT pipeline. *(Oct 2025 – Feb 2026)* |
-| [🎓 **Ware Wizards — AI LMS**] | Python, MySQL, Gemini API | Full-stack LMS with **Gemini Generative AI** for adaptive content delivery; scalable multi-user architecture. *(Jul 2025 – Sep 2025)* |
-| [🛡️ **GAMMA — Cyberbullying Detector**] | NLP, ML, Sentiment Analysis | Achieved **87% F1-score** detecting cyberbullying across social platforms via fine-tuned NLP classifier. *(Sep 2024 – Nov 2024)* |
-| [🎯 **GOAL — AI Student Chatbot**] | AI, Knowledge Base, Python | Deployed chatbot "Infinity" providing context-aware college guidance across **Tamil Nadu**. *(Jul 2024 – Aug 2024)* |
+| [🤖 **Robotic Agriculture System**](https://github.com/kushalj23) | IoT, Microcontrollers, Sensors | Automated pollination, irrigation & crop monitoring via real-time MCU control. Full end-to-end IoT pipeline. *(Oct 2025 – Feb 2026)* |
+| [🎓 **Ware Wizards — AI LMS**](https://github.com/kushalj23) | Python, MySQL, Gemini API | Full-stack LMS with **Gemini Generative AI** for adaptive content delivery; scalable multi-user architecture. *(Jul 2025 – Sep 2025)* |
+| [🛡️ **GAMMA — Cyberbullying Detector**](https://github.com/kushalj23) | NLP, ML, Sentiment Analysis | Achieved **87% F1-score** detecting cyberbullying across social platforms via fine-tuned NLP classifier. *(Sep 2024 – Nov 2024)* |
+| [🎯 **GOAL — AI Student Chatbot**](https://github.com/kushalj23) | AI, Knowledge Base, Python | Deployed chatbot "Infinity" providing context-aware college guidance across **Tamil Nadu**. *(Jul 2024 – Aug 2024)* |
 
 </div>
 
@@ -235,8 +245,12 @@ public class KushalJ {
 ## 📚 Currently Learning
 
 ```
+🧱 C# 12 & .NET Core     → Sealed/Extension Classes, Covariance, C# 12 Features
+🗄️  ADO.NET & SQL Server  → SqlConnection, Transactions, Bulk Operations, MSSQL Internals
 ⚙️  DSA in Java           → Trees, Graphs, Dynamic Programming, System Design
-
+🧪  NUnit Testing         → TestFixture, Constraint Model, Parameterized Tests
+☁️  Cloud Platforms       → AWS Core Services, Azure Fundamentals
+🚀  Startup Building      → Medical SaaS (JK MED POS) — Next.js 14 + Supabase + Razorpay
 ```
 
 ---
