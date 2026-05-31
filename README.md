@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Kushal+J+%F0%9F%91%8B;Full-Stack+%7C+AI%2FML+%7C+Embedded+Systems+Engineer;B.E.+ECE+%40+Vel+Tech+%7C+CGPA+9.04+%F0%9F%8E%AF;Building+impact-driven+software+for+society+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kushalj23&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/kushalj23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushal%20J-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushalj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushal%20J-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushaljecevtmt)
 [![Email](https://img.shields.io/badge/Email-lkushal2005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lkushal2005@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai)
 
